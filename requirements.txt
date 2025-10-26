@@ -1,0 +1,4 @@
+langchain==1.0.2
+langchain-groq==1.0.0
+langchain-mcp-adapters==0.1.11
+mcp==1.19.0
