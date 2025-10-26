@@ -31,4 +31,5 @@ def multiply(a:int,b:int)->int:
     return a*b
 
 if __name__=="__main__":
+    # standard input output transport. Interacts via terminal
     mcp.run(transport="stdio")
